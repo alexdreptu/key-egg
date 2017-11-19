@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# generated files
+config.h
+config.log
+config.status
+Makefile
+src/.deps
+src/Makefile
+src/dontrunme
+src/krecv
+src/busted.log
+stamp-h1
